@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SloVenture – Terms of Use</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f0f1a; color: #e0e0e0; line-height: 1.7; }
+        header { background: linear-gradient(135deg, #1a1a2e, #16213e); border-bottom: 2px solid #6c63ff; padding: 40px 24px; text-align: center; }
+        header h1 { font-size: 2rem; color: #ffffff; }
+        header p { color: #9e9eb8; margin-top: 8px; font-size: 0.95rem; }
+        .container { max-width: 800px; margin: 0 auto; padding: 40px 24px; }
+        .card { background: #1a1a2e; border-radius: 12px; border: 1px solid #2a2a4a; padding: 28px; margin-bottom: 24px; }
+        h2 { color: #6c63ff; font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 14px; }
+        p { color: #c0c0d8; margin-bottom: 12px; font-size: 0.95rem; }
+        ul { padding-left: 20px; color: #c0c0d8; font-size: 0.95rem; }
+        ul li { margin-bottom: 8px; }
+        a { color: #6c63ff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        footer { text-align: center; padding: 32px 24px; color: #606080; font-size: 0.85rem; border-top: 1px solid #2a2a4a; }
+        footer p { color: #606080; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🗺️ SloVenture</h1>
+        <p>Terms of Use</p>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <p><strong>Last updated: April 8, 2026</strong></p>
+            <p>These Terms of Use govern your use of the <strong>SloVenture</strong> Android application, developed by <strong>Jan Kosi</strong> (CleanDunk). By downloading or using SloVenture, you agree to these terms.</p>
+        </div>
+
+        <div class="card">
+            <h2>1. Acceptance of Terms</h2>
+            <p>By accessing or using SloVenture, you confirm that you are at least 13 years old and agree to be bound by these Terms of Use. If you do not agree, please do not use the app.</p>
+        </div>
+
+        <div class="card">
+            <h2>2. Use of the App</h2>
+            <p>SloVenture is a free travel checklist app for exploring points of interest in Slovenia. You may use it for personal, non-commercial purposes only. You agree not to:</p>
+            <ul>
+                <li>Use the app for any unlawful purpose</li>
+                <li>Attempt to reverse engineer, modify, or tamper with the app</li>
+                <li>Use automated tools to scrape or extract data from the app</li>
+                <li>Impersonate another person or create misleading accounts</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>3. User Account</h2>
+            <p>You are responsible for keeping your account credentials secure and for all activity that occurs under your account. Notify us immediately at <a href="mailto:info@cleandunk.com">info@cleandunk.com</a> if you suspect unauthorised access.</p>
+            <p>We reserve the right to suspend or delete accounts that violate these terms.</p>
+        </div>
+
+        <div class="card">
+            <h2>4. User-Submitted Content</h2>
+            <p>SloVenture allows you to submit POI suggestions and upload photos. By submitting content, you confirm that:</p>
+            <ul>
+                <li>You own the content or have the right to share it</li>
+                <li>The content is accurate and not misleading</li>
+                <li>The content does not violate any laws or third-party rights</li>
+            </ul>
+            <p>You grant CleanDunk a non-exclusive licence to use submitted POI suggestions for the purpose of improving the app. Photos you upload remain yours and are only visible to you.</p>
+        </div>
+
+        <div class="card">
+            <h2>5. Intellectual Property</h2>
+            <p>All content within SloVenture — including the app design, code, branding, and curated POI data — is owned by CleanDunk / Jan Kosi. You may not copy, redistribute, or create derivative works without prior written permission.</p>
+            <p>Map data is provided by MapLibre / MapTiler. POI images are sourced from Wikimedia Commons under Creative Commons licences.</p>
+        </div>
+
+        <div class="card">
+            <h2>6. Location and Notifications</h2>
+            <p>SloVenture uses your device location to enhance the experience (nearby POI detection, automatic visit marking). You can control location access and notifications at any time through your device settings. These features are optional — the app remains usable without them.</p>
+        </div>
+
+        <div class="card">
+            <h2>7. Disclaimer of Warranties</h2>
+            <p>SloVenture is provided <strong>"as is"</strong> without warranties of any kind. We do not guarantee that:</p>
+            <ul>
+                <li>POI information (locations, descriptions, opening hours) is always accurate or up to date</li>
+                <li>The app will be available without interruption or error</li>
+                <li>Any particular feature will remain available in future versions</li>
+            </ul>
+            <p>Always exercise your own judgement when visiting locations.</p>
+        </div>
+
+        <div class="card">
+            <h2>8. Limitation of Liability</h2>
+            <p>To the fullest extent permitted by law, CleanDunk and Jan Kosi shall not be liable for any indirect, incidental, or consequential damages arising from your use of SloVenture, including but not limited to injury, loss, or damage incurred while visiting any location featured in the app.</p>
+        </div>
+
+        <div class="card">
+            <h2>9. Third-Party Services</h2>
+            <p>SloVenture integrates third-party services including Google Firebase, MapLibre, and MapTiler. Your use of those services is subject to their own terms and privacy policies. We are not responsible for the practices of third-party providers.</p>
+        </div>
+
+        <div class="card">
+            <h2>10. Termination</h2>
+            <p>You may stop using SloVenture and delete your account at any time. We reserve the right to suspend or terminate access for users who violate these terms, without prior notice.</p>
+        </div>
+
+        <div class="card">
+            <h2>11. Changes to These Terms</h2>
+            <p>We may update these Terms of Use from time to time. We will notify you of significant changes by updating the date at the top of this page. Continued use of SloVenture after changes constitutes acceptance of the updated terms.</p>
+        </div>
+
+        <div class="card">
+            <h2>12. Governing Law</h2>
+            <p>These terms are governed by the laws of <strong>Slovenia</strong>. Any disputes shall be resolved under Slovenian jurisdiction.</p>
+        </div>
+
+        <div class="card">
+            <h2>13. Contact Us</h2>
+            <p>If you have any questions about these Terms of Use, please contact us:</p>
+            <ul>
+                <li><strong>Developer:</strong> Jan Kosi</li>
+                <li><strong>Company:</strong> CleanDunk</li>
+                <li><strong>Email:</strong> <a href="mailto:info@cleandunk.com">info@cleandunk.com</a></li>
+                <li><strong>Website:</strong> <a href="https://cleandunk.com">cleandunk.com</a></li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <p style="text-align: center; font-size: 0.9rem;">© 2026 CleanDunk · Jan Kosi · All rights reserved</p>
+            <p style="text-align: center; font-size: 0.85rem; color: #606080;">SloVenture — Explore Slovenia</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 CleanDunk · Jan Kosi · All rights reserved</p>
+    </footer>
+</body>
+</html>
